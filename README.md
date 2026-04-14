@@ -23,7 +23,7 @@ This project presents an interactive Power BI dashboard analyzing IPL (Indian Pr
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here for better visibility)
+![Dashboard](dashboard.png)
 
 ## 💡 Insights
 
